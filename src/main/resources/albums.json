@@ -4,7 +4,7 @@
         "artist": "Nirvana",
         "title": "Nevermind",
         "releaseYear": "1991",
-        "genre": "Rock"
+        "genre": "Grunge"
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
